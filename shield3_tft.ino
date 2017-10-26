@@ -124,7 +124,9 @@ void loop() {
       delay(10);
     }
 }
-//ceo kod ispod je neophodan za pravilan rad ekrana i njega ostavljamo kako jeste. Sve u vezi njega je na arduino forumu a ovde bismo samo izgubili vreme
+//ceo kod ispod je neophodan za pravilan rad ekrana i njega ostavljamo kako jeste. 
+//Sve u vezi njega je na arduino forumu a ovde bismo samo izgubili vreme
+//Prevedeno, ako niste sigurni, ne dirajte ništa :)
 #define BMPIMAGEOFFSET 54
 #define BUFFPIXEL      20
 
